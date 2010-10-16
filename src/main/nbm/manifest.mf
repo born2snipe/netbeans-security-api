@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: b2s/netbeans/security/Bundle.properties
+OpenIDE-Module-Layer: b2s/netbeans/security/layer.xml
