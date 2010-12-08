@@ -1,0 +1,11 @@
+= Maven Repo
+
+    http://b2s-repo.googlecode.com/svn/trunk/mvn-repo
+
+= What it does?
+
+This provides extension points so you can give the proper login mechanism your application uses
+
+= Extension Points
+    LoginService - provides custom authenication for you application
+    UserRoleService - provides custom role lookup for your user
